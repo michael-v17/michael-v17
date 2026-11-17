@@ -19,7 +19,8 @@ I build AI-native products end to end — from the system that reasons to the pi
 
 ## Open source
 
-Reported and diagnosed the transparent-input CSS bug in [Semantic-UI #1924](https://github.com/Semantic-Org/Semantic-UI/issues/1924).
+- Reported and diagnosed the transparent-input CSS bug in [Semantic-UI #1924](https://github.com/Semantic-Org/Semantic-UI/issues/1924).
+- Now digging into [OpenMausBot](https://github.com/milind-soni/OpenMausBot) — the open-source, local-first team-of-bots runtime — to contribute.
 
 <div align="center">
 
