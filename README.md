@@ -9,6 +9,8 @@ Entrepreneur from Costa Rica 🇨🇷 building **native macOS apps** and **AI sy
 
 🌱 **Open source** — reported and diagnosed the transparent-input CSS bug in [Semantic-UI #1924](https://github.com/Semantic-Org/Semantic-UI/issues/1924).
 
+![Commit streak](https://streak-stats.demolab.com/?user=michael-v17&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7)
+
 Day to day: **Swift / SwiftUI on macOS** · TypeScript · Python · LangGraph & LLM systems.
 
 Co-founder [@TecnologiasVM](https://github.com/TecnologiasVM) · EE/CE background — I build products where the applied substrate (how minds learn, remember, break habits) meets what AI can do.
