@@ -7,6 +7,8 @@ Entrepreneur from Costa Rica 🇨🇷 building **native macOS apps** and **AI sy
 - 🧠 **Swapless** — the menu-bar app that keeps a 16 GB Mac out of swap: measures like Activity Monitor, names the real culprit, and only ever touches what you've ruled on. *Shipping soon.*
 - 📚 **StoryPlots** — an interactive storytelling engine. *In the oven.*
 
+🌱 **Open source** — reported and diagnosed the transparent-input CSS bug in [Semantic-UI #1924](https://github.com/Semantic-Org/Semantic-UI/issues/1924).
+
 Day to day: **Swift / SwiftUI on macOS** · TypeScript · Python · LangGraph & LLM systems.
 
 Co-founder [@TecnologiasVM](https://github.com/TecnologiasVM) · EE/CE background — I build products where the applied substrate (how minds learn, remember, break habits) meets what AI can do.
